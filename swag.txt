@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 awrwaefasdfsf
+=======
+gsfzsguhnydfbdfknhdfknmd
+>>>>>>> 86f49ac5020d422f0acedd3685cd0be38de8573f
